@@ -2049,11 +2049,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Davi\\Meus_Projetos_Academicos_e_Pessoais\\pessoal\\C#\\Busca_CEP\\Server\\Busca_CEP.csproj",
+      "projectUniqueName": "C:\\Users\\Davi\\GitHub-Projetos-Pessoais\\Busca-CEP\\Server\\Busca_CEP.csproj",
       "projectName": "Busca_CEP",
-      "projectPath": "C:\\Users\\Davi\\Meus_Projetos_Academicos_e_Pessoais\\pessoal\\C#\\Busca_CEP\\Server\\Busca_CEP.csproj",
+      "projectPath": "C:\\Users\\Davi\\GitHub-Projetos-Pessoais\\Busca-CEP\\Server\\Busca_CEP.csproj",
       "packagesPath": "C:\\Users\\Davi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Davi\\Meus_Projetos_Academicos_e_Pessoais\\pessoal\\C#\\Busca_CEP\\Server\\obj\\",
+      "outputPath": "C:\\Users\\Davi\\GitHub-Projetos-Pessoais\\Busca-CEP\\Server\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Davi\\AppData\\Roaming\\NuGet\\NuGet.Config"
